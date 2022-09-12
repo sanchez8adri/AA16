@@ -1,0 +1,49 @@
+----The Best of Spotify----
+Usuario: sanchezadri Nombre: Adrian Sanchez DNI: 789456123M
+
+Top 10 artistas 2020:
+Artista [nombreArtista=Bad Gyal]
+Artista [nombreArtista=Beret]
+Artista [nombreArtista=Aitana]
+Artista [nombreArtista=Omar Montes]
+Artista [nombreArtista=Rosalía]
+Artista [nombreArtista=Rvfv]
+Artista [nombreArtista=Lérica]
+Artista [nombreArtista=C. Tangana]
+Artista [nombreArtista=Juan Magán]
+Artista [nombreArtista=Ana Mena]
+
+Top 10 artistas 2021:
+Artista [nombreArtista=Rauw Alejandro]
+Artista [nombreArtista=Bad Bunny]
+Artista [nombreArtista=Myke Towers]
+Artista [nombreArtista=J Balvin]
+Artista [nombreArtista=Anuel AA]
+Artista [nombreArtista=Aitana]
+Artista [nombreArtista=KAROL G]
+Artista [nombreArtista=María Becerra]
+Artista [nombreArtista=Dua Lipa]
+Artista [nombreArtista=Nicki Nicole]
+
+Top 10 Canciones 2020:
+Cancion [titulo=Tusa, artistas=KAROL G con Nicki Minaj, reproducciones=1000000, recaudacion=2000000$]
+Cancion [titulo=Se iluminaba, artistas=Fred De Palma y Ana Mena, reproducciones=2000000, recaudacion=4000000$]
+Cancion [titulo=La Jeepeta Remix, artistas=Nio Garcia, Anuel AA, Myke Towers, Brray y Juanka, reproducciones=3000000, recaudacion=6000000$]
+Cancion [titulo=Caramelo, artistas=Ozuna La Curiosidad, Jay Wheeler, DJ Nelson y Myke Towers, reproducciones=5000000, recaudacion=10000000$]
+Cancion [titulo=Mil Tequilas, artistas=Chema Rivas, reproducciones=6000000, recaudacion=12000000$]
+Cancion [titulo=Morado, artistas=J Balvin, reproducciones=10000000, recaudacion=20000000$]
+Cancion [titulo=Safaera, artistas=Bad Bunny, Jowell Randy y Nengo Flow, reproducciones=7500000, recaudacion=15000000$]
+Cancion [titulo=Relacion, artistas=Sech, reproducciones=1000000, recaudacion=2000000$]
+Cancion [titulo=Dance Monkey, artistas=Tones And I, reproducciones=7000000, recaudacion=14000000$]
+
+Top 10 Canciones 2021:
+Cancion [titulo=Todo de ti, artistas=Rauw Alejandro, reproducciones=1000000, recaudacion=2000000$]
+Cancion [titulo=Pareja del año, artistas= Sebastián Yatra, Myke Towers, reproducciones=1000000, recaudacion=2000000$]
+Cancion [titulo=Yonaguni, artistas=Bad Bunny, reproducciones=2000000, recaudacion=4000000$]
+Cancion [titulo=Fiel, artistas= Los legendarios, Wisin, Jhay Cortez, reproducciones=3000000, recaudacion=6000000$]
+Cancion [titulo=La historia, artistas=El taiger, DJ Conds, reproducciones=5000000, recaudacion=10000000$]
+Cancion [titulo=Bandido, artistas=Myke Towers, reproducciones=10000000, recaudacion=20000000$]
+Cancion [titulo=Que Mas Pues?, artistas=J Balvin, María Becerra, reproducciones=15000000, recaudacion=30000000$]
+Cancion [titulo=Tiroteo Remix, artistas=Marc Segui, Rauw Alejandro, Pol Granch, reproducciones=17000000, recaudacion=34000000$]
+Cancion [titulo=Loco, artistas=Justin Aquiles, Chimbala, Zion & Lennox, reproducciones=18000000, recaudacion=36000000$]
+Cancion [titulo=DAKITI, artistas=Bad Bunny, Jhay Cortez, reproducciones=20000000, recaudacion=40000000$]
